@@ -45,4 +45,27 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 60%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+     background-repeat: no-repeat;
+     background-position: left;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 152, 111), rgb(145, 253, 172));
+    border-image-slice: 1;
+}
+
+#beginer-web{
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(137, 137, 240) , cyan);
+    border-image-slice: 1;
+
+}
+
+footer p{
+    text-align: center;
 }
